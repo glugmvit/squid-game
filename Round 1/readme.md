@@ -1,4 +1,3 @@
-
 # RED LIGHT GREEN LIGHT
 You accepted the offer and were taken to secret location.<br/>
 <br/>
